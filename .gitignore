@@ -1,0 +1,12 @@
+.history
+*.swp
+.terraform
+*.tf.json
+result
+.terraform
+*.tfstate
+*.tfstate.*
+
+result*
+
+.direnv
